@@ -21,7 +21,13 @@
 
 let string="33";
 let change=String(string);
-console.log(typeof change)
-console.log(change);
+// console.log(typeof change)
+// console.log(change);
 ;
 //  ******************operations ************
+
+console.log(1+2);
+console.log("1"+2);
+console.log(1+"2");
+console.log(1+2+"2");
+console.log("2"+1+2);
